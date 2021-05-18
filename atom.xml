@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shaiman.github.io</id>
-    <title>斜杠中年</title>
-    <updated>2021-05-18T00:24:28.635Z</updated>
+    <title>//斜杠中年</title>
+    <updated>2021-05-18T00:36:14.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shaiman.github.io"/>
     <link rel="self" href="https://shaiman.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://shaiman.github.io/images/avatar.png</logo>
     <icon>https://shaiman.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 斜杠中年</rights>
+    <rights>All rights reserved 2021, //斜杠中年</rights>
+    <entry>
+        <title type="html"><![CDATA[奠基贴]]></title>
+        <id>https://shaiman.github.io/post/start/</id>
+        <link href="https://shaiman.github.io/post/start/">
+        </link>
+        <updated>2021-05-18T00:25:55.000Z</updated>
+        <content type="html"><![CDATA[<p>一直都想写点东西，梳理思路，分享资源，锻炼协作能力，但无数次无疾而终。</p>
+<p>究其根源，无外乎这：第一，怎一个“懒”字了得；第二，没有一套好的解决方案。尝试了在博客平台注册账号，无赖平台自由度低，广告多，加上在线博客日薄西山，一片衰败之景；利用wordpress自建博客，一直没有稳定的服务器，搬家通常就放弃迁移；初见github page托管静态网页的解决方案，欣喜若狂，使用hexo后又显得太麻烦；再遇Gridea，如故友变新欢，集github page的免费稳定托管和可视化管理静态页面一体。</p>
+<p>今天再次开始，2021年5月18日奠基礼成！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shaiman.github.io/post/hello-gridea/</id>
