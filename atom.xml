@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shaiman.github.io</id>
     <title>//斜杠中年</title>
-    <updated>2021-05-20T00:01:31.384Z</updated>
+    <updated>2021-05-25T06:17:04.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shaiman.github.io"/>
     <link rel="self" href="https://shaiman.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://shaiman.github.io/images/avatar.png</logo>
     <icon>https://shaiman.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, //斜杠中年</rights>
+    <entry>
+        <title type="html"><![CDATA[魔幻的2021年5月22日]]></title>
+        <id>https://shaiman.github.io/post/mo-huan-de-2021-nian-5-yue-22-ri/</id>
+        <link href="https://shaiman.github.io/post/mo-huan-de-2021-nian-5-yue-22-ri/">
+        </link>
+        <updated>2021-05-24T06:21:06.000Z</updated>
+        <content type="html"><![CDATA[<p>5月22日第四次走善行者，和聊得来的朋友一起，是徒步，也是聚会。途中没怎么看手机，后来才发现22日一天发生了那么多事情——杂交水稻之父袁隆平院士逝世、中国肝脏外科的开拓者和主要创始人吴孟超院士逝世、青海果洛州玛多县发生7.4级地震、云南漾濞县发生6.4级地震、马拉松史上最惨事故21名选手遇难。虽说巧合，还是无比难受。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工具]]></title>
+        <id>https://shaiman.github.io/post/gong-ju/</id>
+        <link href="https://shaiman.github.io/post/gong-ju/">
+        </link>
+        <updated>2021-05-20T00:27:04.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="音乐">音乐</h1>
+<p>MyFreeMp3(http://tool.liumingye.cn/music/?page=searchPage)</p>
+<h1 id="在线工具">在线工具</h1>
+<p>http://tool.liumingye.cn/</p>
+<p>https://www.processon.com/</p>
+<p>一纸简历  https://cv.devtool.tech/app</p>
+<p>木及简历  https://resume.mdedit.online/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人到中年的爱与恨]]></title>
         <id>https://shaiman.github.io/post/ren-dao-zhong-nian-de-ai-yu-hen/</id>
